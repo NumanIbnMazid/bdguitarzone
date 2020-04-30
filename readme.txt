@@ -30,8 +30,3 @@ Admin Login Credential is provided below.
 ----Email:		mazid@gmail.com
 ----Password:		12345
 
-*****************************************************
-------------------------Customer2-----------------------
-
-----Email:		numanworkstation@gmail.com
-----Password:		12345
